@@ -1,5 +1,7 @@
 # 収支記録システム
-![微信截图_20250108182625](https://github.com/user-attachments/assets/55cbbaf7-1e61-4d63-b0a1-336e96bdffc1)
+![微信截图_20250108194307](https://github.com/user-attachments/assets/585e6158-c710-4779-9675-b31657b39847)
+![微信截图_20250108194344](https://github.com/user-attachments/assets/9a3ead34-ad50-466b-a50c-e3283ce19814)
+
 # 概要
 本システムは、家庭や個人の日常的な収支を簡単に記録し、管理することができるアプリケーションです。
 シンプルな操作で、収支記録、月次の収支集計、カテゴリ別の分類を行い、家計を効率的に管理するための支援をします。
